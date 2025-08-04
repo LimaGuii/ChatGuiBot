@@ -3,8 +3,8 @@
 ChatGuiBot é um chatbot desenvolvido no *Bubble.io* que utiliza a *API do Perplexity* para fornecer respostas detalhadas e confiáveis.
 
 ## 🖼 Screenshots
-![Tela inicial](Imagens/tela1.jpg)
-![Resposta do bot](Imagens/tela2.jpg)
+![Tela inicial](tela1.jpg)
+![Resposta do bot](tela2.jpg)
 
 ## 🚀 Como funciona
 - O usuário interage com o ChatGuiBot diretamente na interface web do Bubble.
